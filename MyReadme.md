@@ -1,4 +1,4 @@
-This  project is for the interview of POMELO company
+This  project is for the interview of Pomelo Fashion
 
 Thankyou for the tutorial from many source such as
 https://javascript.plainenglish.io/build-a-news-app-with-the-nytimes-api-react-js-c3b4440ede7f
